@@ -1,0 +1,2063 @@
+[
+ {
+   "SKU": 457334,
+   "ITEM_ID": 1,
+   "ITEM_DESC": "Clementine Mandarins",
+   "PRICE": 5.98,
+   "QTY": 10,
+   "Review": 4.3,
+   "DEPT": "FRESH FOOD"
+ },
+ {
+   "SKU": 72553,
+   "ITEM_ID": 2,
+   "ITEM_DESC": "Red Seedless Grapes",
+   "PRICE": 7.98,
+   "QTY": 3,
+   "Review": 4.5,
+   "DEPT": "FRESH FOOD"
+ },
+ {
+   "SKU": 43612,
+   "ITEM_ID": 3,
+   "ITEM_DESC": "Banana",
+   "PRICE": 4.82,
+   "QTY": 6,
+   "Review": 4.39,
+   "DEPT": "FRESH FOOD"
+ },
+ {
+   "SKU": 506129,
+   "ITEM_ID": 4,
+   "ITEM_DESC": "Kiwi",
+   "PRICE": 4.66,
+   "QTY": 1,
+   "Review": 4.31,
+   "DEPT": "FRESH FOOD"
+ },
+ {
+   "SKU": 331907,
+   "ITEM_ID": 5,
+   "ITEM_DESC": "Tomatos",
+   "PRICE": 5.5,
+   "QTY": 1,
+   "Review": 4.72,
+   "DEPT": "FRESH FOOD"
+ },
+ {
+   "SKU": 219925,
+   "ITEM_ID": 6,
+   "ITEM_DESC": "Green Cabbage",
+   "PRICE": 6.47,
+   "QTY": 6,
+   "Review": 4.77,
+   "DEPT": "FRESH FOOD"
+ },
+ {
+   "SKU": 306510,
+   "ITEM_ID": 7,
+   "ITEM_DESC": "Potato",
+   "PRICE": 5.49,
+   "QTY": 4,
+   "Review": 4.98,
+   "DEPT": "FRESH FOOD"
+ },
+ {
+   "SKU": 418605,
+   "ITEM_ID": 8,
+   "ITEM_DESC": "Raddish",
+   "PRICE": 5.48,
+   "QTY": 4,
+   "Review": 4.36,
+   "DEPT": "FRESH FOOD"
+ },
+ {
+   "SKU": 93760,
+   "ITEM_ID": 9,
+   "ITEM_DESC": "Onions",
+   "PRICE": 6.48,
+   "QTY": 3,
+   "Review": 4.43,
+   "DEPT": "FRESH FOOD"
+ },
+ {
+   "SKU": 823225,
+   "ITEM_ID": 10,
+   "ITEM_DESC": "Melon",
+   "PRICE": 5.21,
+   "QTY": 1,
+   "Review": 4.7,
+   "DEPT": "FRESH FOOD"
+ },
+ {
+   "SKU": 821133,
+   "ITEM_ID": 11,
+   "ITEM_DESC": "Strawberry",
+   "PRICE": 9.25,
+   "QTY": 3,
+   "Review": 4.5,
+   "DEPT": "FRESH FOOD"
+ },
+ {
+   "SKU": 687403,
+   "ITEM_ID": 12,
+   "ITEM_DESC": "Blueberry",
+   "PRICE": 6.34,
+   "QTY": 3,
+   "Review": 4.65,
+   "DEPT": "FRESH FOOD"
+ },
+ {
+   "SKU": 162945,
+   "ITEM_ID": 13,
+   "ITEM_DESC": "Easter Egg",
+   "PRICE": 6.95,
+   "QTY": 18,
+   "Review": 2.26,
+   "DEPT": "SEASONAL"
+ },
+ {
+   "SKU": 81218,
+   "ITEM_ID": 14,
+   "ITEM_DESC": "Earter Dinner",
+   "PRICE": 6.75,
+   "QTY": 15,
+   "Review": 3.77,
+   "DEPT": "SEASONAL"
+ },
+ {
+   "SKU": 306402,
+   "ITEM_ID": 15,
+   "ITEM_DESC": "Easter Special Cka",
+   "PRICE": 7.37,
+   "QTY": 9,
+   "Review": 3.36,
+   "DEPT": "SEASONAL"
+ },
+ {
+   "SKU": 356171,
+   "ITEM_ID": 16,
+   "ITEM_DESC": "Wonder Egg Surprise",
+   "PRICE": 13.8,
+   "QTY": 15,
+   "Review": 2.86,
+   "DEPT": "SEASONAL"
+ },
+ {
+   "SKU": 180169,
+   "ITEM_ID": 17,
+   "ITEM_DESC": "Flowers",
+   "PRICE": 11.81,
+   "QTY": 10,
+   "Review": 3.64,
+   "DEPT": "SEASONAL"
+ },
+ {
+   "SKU": 603232,
+   "ITEM_ID": 18,
+   "ITEM_DESC": "Special Flower Case",
+   "PRICE": 16.64,
+   "QTY": 17,
+   "Review": 1.69,
+   "DEPT": "SEASONAL"
+ },
+ {
+   "SKU": 221913,
+   "ITEM_ID": 19,
+   "ITEM_DESC": "Easter Bunny",
+   "PRICE": 9.1,
+   "QTY": 12,
+   "Review": 3.13,
+   "DEPT": "SEASONAL"
+ },
+ {
+   "SKU": 476165,
+   "ITEM_ID": 20,
+   "ITEM_DESC": "Easter Party Pack",
+   "PRICE": 8.22,
+   "QTY": 15,
+   "Review": 3.07,
+   "DEPT": "SEASONAL"
+ },
+ {
+   "SKU": 639895,
+   "ITEM_ID": 21,
+   "ITEM_DESC": "Golden Egg Basket",
+   "PRICE": 6.15,
+   "QTY": 15,
+   "Review": 4.39,
+   "DEPT": "SEASONAL"
+ },
+ {
+   "SKU": 666679,
+   "ITEM_ID": 22,
+   "ITEM_DESC": "Shirts XL",
+   "PRICE": 11.26,
+   "QTY": 1,
+   "Review": 4.5,
+   "DEPT": "DRESS"
+ },
+ {
+   "SKU": 326729,
+   "ITEM_ID": 23,
+   "ITEM_DESC": "Mens Shirt",
+   "PRICE": 11.88,
+   "QTY": 6,
+   "Review": 4.48,
+   "DEPT": "DRESS"
+ },
+ {
+   "SKU": 508398,
+   "ITEM_ID": 24,
+   "ITEM_DESC": "Womens Shirt",
+   "PRICE": 9.66,
+   "QTY": 13,
+   "Review": 3.62,
+   "DEPT": "DRESS"
+ },
+ {
+   "SKU": 323157,
+   "ITEM_ID": 25,
+   "ITEM_DESC": "Women Pants",
+   "PRICE": 13.37,
+   "QTY": 4,
+   "Review": 3.65,
+   "DEPT": "DRESS"
+ },
+ {
+   "SKU": 438505,
+   "ITEM_ID": 26,
+   "ITEM_DESC": "Women PJ's",
+   "PRICE": 8.54,
+   "QTY": 5,
+   "Review": 3.33,
+   "DEPT": "DRESS"
+ },
+ {
+   "SKU": 214340,
+   "ITEM_ID": 27,
+   "ITEM_DESC": "Mens PJ's",
+   "PRICE": 17.74,
+   "QTY": 14,
+   "Review": 4.18,
+   "DEPT": "DRESS"
+ },
+ {
+   "SKU": 644240,
+   "ITEM_ID": 28,
+   "ITEM_DESC": "Socks",
+   "PRICE": 10.81,
+   "QTY": 3,
+   "Review": 3.43,
+   "DEPT": "DRESS"
+ },
+ {
+   "SKU": 860510,
+   "ITEM_ID": 29,
+   "ITEM_DESC": "Shoe",
+   "PRICE": 8.8,
+   "QTY": 12,
+   "Review": 4.72,
+   "DEPT": "DRESS"
+ },
+ {
+   "SKU": 148963,
+   "ITEM_ID": 30,
+   "ITEM_DESC": "Hats",
+   "PRICE": 6.37,
+   "QTY": 14,
+   "Review": 4.97,
+   "DEPT": "DRESS"
+ },
+ {
+   "SKU": 54306,
+   "ITEM_ID": 31,
+   "ITEM_DESC": "Belts",
+   "PRICE": 9.28,
+   "QTY": 18,
+   "Review": 4.49,
+   "DEPT": "DRESS"
+ },
+ {
+   "SKU": 560175,
+   "ITEM_ID": 32,
+   "ITEM_DESC": "Mens Tall Shirt",
+   "PRICE": 15.95,
+   "QTY": 7,
+   "Review": 3.71,
+   "DEPT": "DRESS"
+ },
+ {
+   "SKU": 755148,
+   "ITEM_ID": 33,
+   "ITEM_DESC": "Mens Tie",
+   "PRICE": 8.41,
+   "QTY": 19,
+   "Review": 4.8,
+   "DEPT": "DRESS"
+ },
+ {
+   "SKU": 505268,
+   "ITEM_ID": 34,
+   "ITEM_DESC": "Mens Inner",
+   "PRICE": 15.98,
+   "QTY": 4,
+   "Review": 3.44,
+   "DEPT": "DRESS"
+ },
+ {
+   "SKU": 706157,
+   "ITEM_ID": 35,
+   "ITEM_DESC": "Women Inner",
+   "PRICE": 19.03,
+   "QTY": 7,
+   "Review": 4.32,
+   "DEPT": "DRESS"
+ },
+ {
+   "SKU": 743834,
+   "ITEM_ID": 36,
+   "ITEM_DESC": "Mens Tee",
+   "PRICE": 16.19,
+   "QTY": 5,
+   "Review": 3.31,
+   "DEPT": "DRESS"
+ },
+ {
+   "SKU": 213885,
+   "ITEM_ID": 37,
+   "ITEM_DESC": "Womens Tee",
+   "PRICE": 10.94,
+   "QTY": 7,
+   "Review": 3.83,
+   "DEPT": "DRESS"
+ },
+ {
+   "SKU": 540526,
+   "ITEM_ID": 38,
+   "ITEM_DESC": "Toddler Tee",
+   "PRICE": 17.24,
+   "QTY": 8,
+   "Review": 3.61,
+   "DEPT": "DRESS"
+ },
+ {
+   "SKU": 249573,
+   "ITEM_ID": 39,
+   "ITEM_DESC": "Baby Suit",
+   "PRICE": 15.95,
+   "QTY": 3,
+   "Review": 4.76,
+   "DEPT": "DRESS"
+ },
+ {
+   "SKU": 616327,
+   "ITEM_ID": 40,
+   "ITEM_DESC": "Toddler Girls Pants",
+   "PRICE": 19.3,
+   "QTY": 10,
+   "Review": 3.49,
+   "DEPT": "DRESS"
+ },
+ {
+   "SKU": 680918,
+   "ITEM_ID": 41,
+   "ITEM_DESC": "Toddler Boys Shirt",
+   "PRICE": 7.53,
+   "QTY": 9,
+   "Review": 3.73,
+   "DEPT": "DRESS"
+ },
+ {
+   "SKU": 402810,
+   "ITEM_ID": 42,
+   "ITEM_DESC": "Toddler PJ Set",
+   "PRICE": 9.27,
+   "QTY": 13,
+   "Review": 4.8,
+   "DEPT": "DRESS"
+ },
+ {
+   "SKU": 152087,
+   "ITEM_ID": 43,
+   "ITEM_DESC": "Mens Suit",
+   "PRICE": 12.9,
+   "QTY": 5,
+   "Review": 4.85,
+   "DEPT": "DRESS"
+ },
+ {
+   "SKU": 280787,
+   "ITEM_ID": 44,
+   "ITEM_DESC": "Lipstick",
+   "PRICE": 22.87,
+   "QTY": 5,
+   "Review": 4.27,
+   "DEPT": "HEALTH AND BEAUTY"
+ },
+ {
+   "SKU": 859266,
+   "ITEM_ID": 45,
+   "ITEM_DESC": "Lipbalm",
+   "PRICE": 26.91,
+   "QTY": 11,
+   "Review": 3.48,
+   "DEPT": "HEALTH AND BEAUTY"
+ },
+ {
+   "SKU": 724238,
+   "ITEM_ID": 46,
+   "ITEM_DESC": "Allegra",
+   "PRICE": 9.3,
+   "QTY": 9,
+   "Review": 4.1,
+   "DEPT": "HEALTH AND BEAUTY"
+ },
+ {
+   "SKU": 595195,
+   "ITEM_ID": 47,
+   "ITEM_DESC": "Bengay",
+   "PRICE": 11.55,
+   "QTY": 7,
+   "Review": 4.01,
+   "DEPT": "HEALTH AND BEAUTY"
+ },
+ {
+   "SKU": 260344,
+   "ITEM_ID": 48,
+   "ITEM_DESC": "Head and Sholders Shampoo",
+   "PRICE": 13.04,
+   "QTY": 11,
+   "Review": 3.41,
+   "DEPT": "HEALTH AND BEAUTY"
+ },
+ {
+   "SKU": 595626,
+   "ITEM_ID": 49,
+   "ITEM_DESC": "Dove Conditioner",
+   "PRICE": 4.7,
+   "QTY": 15,
+   "Review": 4.65,
+   "DEPT": "HEALTH AND BEAUTY"
+ },
+ {
+   "SKU": 104700,
+   "ITEM_ID": 50,
+   "ITEM_DESC": "Dove Shampoo",
+   "PRICE": 11.8,
+   "QTY": 18,
+   "Review": 4.15,
+   "DEPT": "HEALTH AND BEAUTY"
+ },
+ {
+   "SKU": 261082,
+   "ITEM_ID": 51,
+   "ITEM_DESC": "Tressme Hair Spray",
+   "PRICE": 6.46,
+   "QTY": 2,
+   "Review": 4.49,
+   "DEPT": "HEALTH AND BEAUTY"
+ },
+ {
+   "SKU": 608680,
+   "ITEM_ID": 52,
+   "ITEM_DESC": "Hair Conditioner",
+   "PRICE": 22.3,
+   "QTY": 11,
+   "Review": 4.1,
+   "DEPT": "HEALTH AND BEAUTY"
+ },
+ {
+   "SKU": 266634,
+   "ITEM_ID": 53,
+   "ITEM_DESC": "T-Gel",
+   "PRICE": 8.44,
+   "QTY": 11,
+   "Review": 4.57,
+   "DEPT": "HEALTH AND BEAUTY"
+ },
+ {
+   "SKU": 747939,
+   "ITEM_ID": 54,
+   "ITEM_DESC": "Gel Silica",
+   "PRICE": 48.79,
+   "QTY": 12,
+   "Review": 3.93,
+   "DEPT": "HEALTH AND BEAUTY"
+ },
+ {
+   "SKU": 840370,
+   "ITEM_ID": 55,
+   "ITEM_DESC": "Bar Soap",
+   "PRICE": 19.85,
+   "QTY": 18,
+   "Review": 4.53,
+   "DEPT": "HEALTH AND BEAUTY"
+ },
+ {
+   "SKU": 429055,
+   "ITEM_ID": 56,
+   "ITEM_DESC": "Shower Gel",
+   "PRICE": 19.25,
+   "QTY": 3,
+   "Review": 4.13,
+   "DEPT": "HEALTH AND BEAUTY"
+ },
+ {
+   "SKU": 120402,
+   "ITEM_ID": 57,
+   "ITEM_DESC": "Body Cream",
+   "PRICE": 15.67,
+   "QTY": 7,
+   "Review": 4.65,
+   "DEPT": "HEALTH AND BEAUTY"
+ },
+ {
+   "SKU": 633384,
+   "ITEM_ID": 58,
+   "ITEM_DESC": "Moisturiser Travel Pack",
+   "PRICE": 36.02,
+   "QTY": 14,
+   "Review": 3.47,
+   "DEPT": "HEALTH AND BEAUTY"
+ },
+ {
+   "SKU": 532738,
+   "ITEM_ID": 59,
+   "ITEM_DESC": "Sunscreen Lotion",
+   "PRICE": 46.17,
+   "QTY": 14,
+   "Review": 3.99,
+   "DEPT": "HEALTH AND BEAUTY"
+ },
+ {
+   "SKU": 109210,
+   "ITEM_ID": 60,
+   "ITEM_DESC": "Shaving Cream",
+   "PRICE": 26.32,
+   "QTY": 12,
+   "Review": 4.17,
+   "DEPT": "HEALTH AND BEAUTY"
+ },
+ {
+   "SKU": 362205,
+   "ITEM_ID": 61,
+   "ITEM_DESC": "Calvin Klein Deo",
+   "PRICE": 36.15,
+   "QTY": 18,
+   "Review": 3.38,
+   "DEPT": "HEALTH AND BEAUTY"
+ },
+ {
+   "SKU": 335146,
+   "ITEM_ID": 62,
+   "ITEM_DESC": "Goodyear Eagle Sport A/S - 225/40R18/XL 92W Tire",
+   "PRICE": 124.77,
+   "QTY": 4,
+   "Review": 3.4,
+   "DEPT": "TIRE"
+ },
+ {
+   "SKU": 408219,
+   "ITEM_ID": 63,
+   "ITEM_DESC": "Goodyear Assurance Maxlife - 225/60R17 99H",
+   "PRICE": 134.61,
+   "QTY": 4,
+   "Review": 4.96,
+   "DEPT": "TIRE"
+ },
+ {
+   "SKU": 381578,
+   "ITEM_ID": 64,
+   "ITEM_DESC": "Goodyear Assurance All-Season - 235/60R18 103H Tire",
+   "PRICE": 234.17,
+   "QTY": 4,
+   "Review": 3.31,
+   "DEPT": "TIRE"
+ },
+ {
+   "SKU": 560128,
+   "ITEM_ID": 65,
+   "ITEM_DESC": "Goodyear Wrangler SR-A - P265/70R17 113R Tire",
+   "PRICE": 113.74,
+   "QTY": 4,
+   "Review": 3.23,
+   "DEPT": "TIRE"
+ },
+ {
+   "SKU": 597788,
+   "ITEM_ID": 66,
+   "ITEM_DESC": "GBC MOTORSPORTS Afterburn Street Force 4PR",
+   "PRICE": 114.64,
+   "QTY": 4,
+   "Review": 3.97,
+   "DEPT": "TIRE"
+ },
+ {
+   "SKU": 399889,
+   "ITEM_ID": 67,
+   "ITEM_DESC": "Carlisle Radial Trail HD",
+   "PRICE": 123.21,
+   "QTY": 4,
+   "Review": 4.99,
+   "DEPT": "TIRE"
+ },
+ {
+   "SKU": 877736,
+   "ITEM_ID": 68,
+   "ITEM_DESC": "Goodyear Endurance",
+   "PRICE": 314.86,
+   "QTY": 4,
+   "Review": 3.82,
+   "DEPT": "TIRE"
+ },
+ {
+   "SKU": 140146,
+   "ITEM_ID": 69,
+   "ITEM_DESC": "Greenball Greensaver Plus/GT",
+   "PRICE": 323.46,
+   "QTY": 4,
+   "Review": 3.37,
+   "DEPT": "TIRE"
+ },
+ {
+   "SKU": 43225,
+   "ITEM_ID": 70,
+   "ITEM_DESC": "Michelin Defender ",
+   "PRICE": 214.79,
+   "QTY": 4,
+   "Review": 3.77,
+   "DEPT": "TIRE"
+ },
+ {
+   "SKU": 501047,
+   "ITEM_ID": 71,
+   "ITEM_DESC": "Michelin Pilot Sport",
+   "PRICE": 114.31,
+   "QTY": 4,
+   "Review": 3.21,
+   "DEPT": "TIRE"
+ },
+ {
+   "SKU": 381779,
+   "ITEM_ID": 72,
+   "ITEM_DESC": "Michelin Primacy A/S",
+   "PRICE": 213.97,
+   "QTY": 4,
+   "Review": 3.2,
+   "DEPT": "TIRE"
+ },
+ {
+   "SKU": 786359,
+   "ITEM_ID": 73,
+   "ITEM_DESC": "Michelin Defender LTX M/S",
+   "PRICE": 214.16,
+   "QTY": 4,
+   "Review": 3.43,
+   "DEPT": "TIRE"
+ },
+ {
+   "SKU": 794264,
+   "ITEM_ID": 74,
+   "ITEM_DESC": "Atlantic Salmon Fillet Portions ",
+   "PRICE": 38.46,
+   "QTY": 2,
+   "Review": 3.4,
+   "DEPT": "FROZEN FOOD"
+ },
+ {
+   "SKU": 827959,
+   "ITEM_ID": 75,
+   "ITEM_DESC": "Quick 'N Eat Fully Cooked Angus Choice Beef Patties",
+   "PRICE": 9.86,
+   "QTY": 2,
+   "Review": 4.96,
+   "DEPT": "FROZEN FOOD"
+ },
+ {
+   "SKU": 651003,
+   "ITEM_ID": 76,
+   "ITEM_DESC": "Quick 'N Eat Fully Cooked Angus Choice Beef Patties2",
+   "PRICE": 41.71,
+   "QTY": 15,
+   "Review": 3.31,
+   "DEPT": "FROZEN FOOD"
+ },
+ {
+   "SKU": 369529,
+   "ITEM_ID": 77,
+   "ITEM_DESC": "Natural Triple Berry Blend",
+   "PRICE": 35.44,
+   "QTY": 9,
+   "Review": 3.23,
+   "DEPT": "FROZEN FOOD"
+ },
+ {
+   "SKU": 187355,
+   "ITEM_ID": 78,
+   "ITEM_DESC": "Natural Blueberries",
+   "PRICE": 46.51,
+   "QTY": 18,
+   "Review": 3.97,
+   "DEPT": "FROZEN FOOD"
+ },
+ {
+   "SKU": 86131,
+   "ITEM_ID": 79,
+   "ITEM_DESC": "Southern Style Chicken Bites",
+   "PRICE": 44.58,
+   "QTY": 5,
+   "Review": 4.99,
+   "DEPT": "FROZEN FOOD"
+ },
+ {
+   "SKU": 757677,
+   "ITEM_ID": 80,
+   "ITEM_DESC": "Mesquite Grilled Chicken Breast",
+   "PRICE": 17.01,
+   "QTY": 14,
+   "Review": 3.82,
+   "DEPT": "FROZEN FOOD"
+ },
+ {
+   "SKU": 241432,
+   "ITEM_ID": 81,
+   "ITEM_DESC": "Nestle Drumstick Cone Variety Pack",
+   "PRICE": 31.37,
+   "QTY": 10,
+   "Review": 3.37,
+   "DEPT": "FROZEN FOOD"
+ },
+ {
+   "SKU": 729490,
+   "ITEM_ID": 82,
+   "ITEM_DESC": "Nestle Outshine Fruit Bars Variety Pack",
+   "PRICE": 18.81,
+   "QTY": 16,
+   "Review": 3.77,
+   "DEPT": "FROZEN FOOD"
+ },
+ {
+   "SKU": 555501,
+   "ITEM_ID": 83,
+   "ITEM_DESC": "Nestle Outshine Vannila Bars Variety Pack",
+   "PRICE": 15.3,
+   "QTY": 3,
+   "Review": 3.21,
+   "DEPT": "FROZEN FOOD"
+ },
+ {
+   "SKU": 65635,
+   "ITEM_ID": 84,
+   "ITEM_DESC": "Nestle Outshine Popsicle Bars Variety Pack",
+   "PRICE": 27.74,
+   "QTY": 16,
+   "Review": 3.2,
+   "DEPT": "FROZEN FOOD"
+ },
+ {
+   "SKU": 212834,
+   "ITEM_ID": 85,
+   "ITEM_DESC": "Fruit Bars Variety Pack",
+   "PRICE": 9.75,
+   "QTY": 10,
+   "Review": 3.43,
+   "DEPT": "FROZEN FOOD"
+ },
+ {
+   "SKU": 350300,
+   "ITEM_ID": 86,
+   "ITEM_DESC": "Bars Variety Pack",
+   "PRICE": 10.28,
+   "QTY": 10,
+   "Review": 4.72,
+   "DEPT": "FROZEN FOOD"
+ },
+ {
+   "SKU": 405234,
+   "ITEM_ID": 87,
+   "ITEM_DESC": "FatBoy Premium Vanilla Ice Cream Sandwich",
+   "PRICE": 4.06,
+   "QTY": 17,
+   "Review": 4.99,
+   "DEPT": "FROZEN FOOD"
+ },
+ {
+   "SKU": 503360,
+   "ITEM_ID": 88,
+   "ITEM_DESC": "FatBoy Premium Strawberry Ice Cream Sandwich",
+   "PRICE": 25.22,
+   "QTY": 17,
+   "Review": 4.72,
+   "DEPT": "FROZEN FOOD"
+ },
+ {
+   "SKU": 731511,
+   "ITEM_ID": 89,
+   "ITEM_DESC": "Amazon Gift Card",
+   "PRICE": 23.28,
+   "QTY": 9,
+   "Review": 3.83,
+   "DEPT": "GIFTS AND TOYS"
+ },
+ {
+   "SKU": 604153,
+   "ITEM_ID": 90,
+   "ITEM_DESC": "Bestbuy Gift Card",
+   "PRICE": 20.67,
+   "QTY": 5,
+   "Review": 4.96,
+   "DEPT": "GIFTS AND TOYS"
+ },
+ {
+   "SKU": 641661,
+   "ITEM_ID": 91,
+   "ITEM_DESC": "Playstore Gift Card",
+   "PRICE": 29.72,
+   "QTY": 3,
+   "Review": 4.25,
+   "DEPT": "GIFTS AND TOYS"
+ },
+ {
+   "SKU": 67600,
+   "ITEM_ID": 92,
+   "ITEM_DESC": "Scooter",
+   "PRICE": 36.17,
+   "QTY": 5,
+   "Review": 3.77,
+   "DEPT": "GIFTS AND TOYS"
+ },
+ {
+   "SKU": 43745,
+   "ITEM_ID": 93,
+   "ITEM_DESC": "Barbie Toy Set",
+   "PRICE": 2.26,
+   "QTY": 13,
+   "Review": 3.49,
+   "DEPT": "GIFTS AND TOYS"
+ },
+ {
+   "SKU": 177146,
+   "ITEM_ID": 94,
+   "ITEM_DESC": "Kids Basket Ball Set ",
+   "PRICE": 16.56,
+   "QTY": 2,
+   "Review": 4.8,
+   "DEPT": "GIFTS AND TOYS"
+ },
+ {
+   "SKU": 348572,
+   "ITEM_ID": 95,
+   "ITEM_DESC": "Indoor Board Game Ludo",
+   "PRICE": 47.9,
+   "QTY": 3,
+   "Review": 4.88,
+   "DEPT": "GIFTS AND TOYS"
+ },
+ {
+   "SKU": 565070,
+   "ITEM_ID": 96,
+   "ITEM_DESC": "Indoor Board game ",
+   "PRICE": 33.57,
+   "QTY": 12,
+   "Review": 3.2,
+   "DEPT": "GIFTS AND TOYS"
+ },
+ {
+   "SKU": 780731,
+   "ITEM_ID": 97,
+   "ITEM_DESC": "Scrabble",
+   "PRICE": 48.95,
+   "QTY": 6,
+   "Review": 4.81,
+   "DEPT": "GIFTS AND TOYS"
+ },
+ {
+   "SKU": 506181,
+   "ITEM_ID": 98,
+   "ITEM_DESC": "Chess",
+   "PRICE": 45.7,
+   "QTY": 8,
+   "Review": 4.84,
+   "DEPT": "GIFTS AND TOYS"
+ },
+ {
+   "SKU": 889450,
+   "ITEM_ID": 99,
+   "ITEM_DESC": "Squishie",
+   "PRICE": 29.39,
+   "QTY": 15,
+   "Review": 4.78,
+   "DEPT": "GIFTS AND TOYS"
+ },
+ {
+   "SKU": 351150,
+   "ITEM_ID": 100,
+   "ITEM_DESC": "Play-Dho",
+   "PRICE": 29.16,
+   "QTY": 10,
+   "Review": 3.69,
+   "DEPT": "GIFTS AND TOYS"
+ },
+ {
+   "SKU": 689510,
+   "ITEM_ID": 101,
+   "ITEM_DESC": "Kids Pretend Play Set",
+   "PRICE": 39.65,
+   "QTY": 17,
+   "Review": 4.14,
+   "DEPT": "GIFTS AND TOYS"
+ },
+ {
+   "SKU": 140516,
+   "ITEM_ID": 102,
+   "ITEM_DESC": "Toy House",
+   "PRICE": 25.78,
+   "QTY": 7,
+   "Review": 4.22,
+   "DEPT": "GIFTS AND TOYS"
+ },
+ {
+   "SKU": 216907,
+   "ITEM_ID": 103,
+   "ITEM_DESC": "Masks",
+   "PRICE": 36.88,
+   "QTY": 14,
+   "Review": 3.42,
+   "DEPT": "GIFTS AND TOYS"
+ },
+ {
+   "SKU": 880274,
+   "ITEM_ID": 104,
+   "ITEM_DESC": "Bush Somerset Collection Bookcase",
+   "PRICE": 8.45,
+   "QTY": 14,
+   "Review": 4.91,
+   "DEPT": "FURNITURE"
+ },
+ {
+   "SKU": 507507,
+   "ITEM_ID": 105,
+   "ITEM_DESC": "Hon Deluxe Fabric Upholstered Stacking Chairs, Rounded Back",
+   "PRICE": 30.12,
+   "QTY": 11,
+   "Review": 3.28,
+   "DEPT": "FURNITURE"
+ },
+ {
+   "SKU": 874819,
+   "ITEM_ID": 106,
+   "ITEM_DESC": "Bretford CR4500 Series Slim Rectangular Table",
+   "PRICE": 46.07,
+   "QTY": 17,
+   "Review": 4.26,
+   "DEPT": "FURNITURE"
+ },
+ {
+   "SKU": 425996,
+   "ITEM_ID": 107,
+   "ITEM_DESC": "Eldon Expressions Wood and Plastic Desk Accessories, Cherry Wood",
+   "PRICE": 42.1,
+   "QTY": 8,
+   "Review": 3.65,
+   "DEPT": "FURNITURE"
+ },
+ {
+   "SKU": 607333,
+   "ITEM_ID": 108,
+   "ITEM_DESC": "Chromcraft Rectangular Conference Tables",
+   "PRICE": 6.35,
+   "QTY": 17,
+   "Review": 4.89,
+   "DEPT": "FURNITURE"
+ },
+ {
+   "SKU": 427459,
+   "ITEM_ID": 109,
+   "ITEM_DESC": "Global Deluxe Stacking Chair, Gray",
+   "PRICE": 37.88,
+   "QTY": 2,
+   "Review": 4.19,
+   "DEPT": "FURNITURE"
+ },
+ {
+   "SKU": 401359,
+   "ITEM_ID": 110,
+   "ITEM_DESC": "Bretford CR4500 Series Slim Rectangular Table",
+   "PRICE": 45.73,
+   "QTY": 3,
+   "Review": 4.37,
+   "DEPT": "FURNITURE"
+ },
+ {
+   "SKU": 83314,
+   "ITEM_ID": 111,
+   "ITEM_DESC": "Riverside Palais Royal Lawyers Bookcase, Royale Cherry Finish",
+   "PRICE": 3.8,
+   "QTY": 13,
+   "Review": 3.37,
+   "DEPT": "FURNITURE"
+ },
+ {
+   "SKU": 454073,
+   "ITEM_ID": 112,
+   "ITEM_DESC": "Howard Miller 13-3/4\" Diameter Brushed Chrome Round Wall Clock",
+   "PRICE": 37.56,
+   "QTY": 7,
+   "Review": 4.53,
+   "DEPT": "FURNITURE"
+ },
+ {
+   "SKU": 991307,
+   "ITEM_ID": 113,
+   "ITEM_DESC": "Electrix Architect's Clamp-On Swing Arm Lamp, Black",
+   "PRICE": 0.97,
+   "QTY": 8,
+   "Review": 3.3,
+   "DEPT": "FURNITURE"
+ },
+ {
+   "SKU": 463724,
+   "ITEM_ID": 114,
+   "ITEM_DESC": "Atlantic Metals Mobile 3-Shelf Bookcases, Custom Colors",
+   "PRICE": 29.37,
+   "QTY": 17,
+   "Review": 4.88,
+   "DEPT": "FURNITURE"
+ },
+ {
+   "SKU": 179003,
+   "ITEM_ID": 115,
+   "ITEM_DESC": "Mitel 5320 IP Phone VoIP phone",
+   "PRICE": 22.23,
+   "QTY": 3,
+   "Review": 4.05,
+   "DEPT": "ELECTRONICS"
+ },
+ {
+   "SKU": 493330,
+   "ITEM_ID": 116,
+   "ITEM_DESC": "Konftel 250 Conference phone - Charcoal black",
+   "PRICE": 14.91,
+   "QTY": 18,
+   "Review": 4.42,
+   "DEPT": "ELECTRONICS"
+ },
+ {
+   "SKU": 146355,
+   "ITEM_ID": 117,
+   "ITEM_DESC": "Cisco SPA 501G IP Phone",
+   "PRICE": 46.62,
+   "QTY": 12,
+   "Review": 4.67,
+   "DEPT": "ELECTRONICS"
+ },
+ {
+   "SKU": 820855,
+   "ITEM_ID": 118,
+   "ITEM_DESC": "Imation 8GB Mini TravelDrive USB 2.0 Flash Drive",
+   "PRICE": 44.59,
+   "QTY": 9,
+   "Review": 3.46,
+   "DEPT": "ELECTRONICS"
+ },
+ {
+   "SKU": 745795,
+   "ITEM_ID": 119,
+   "ITEM_DESC": "GE 30524EE4",
+   "PRICE": 20.62,
+   "QTY": 3,
+   "Review": 3.52,
+   "DEPT": "ELECTRONICS"
+ },
+ {
+   "SKU": 543954,
+   "ITEM_ID": 120,
+   "ITEM_DESC": "Plantronics HL10 Handset Lifter",
+   "PRICE": 10.82,
+   "QTY": 9,
+   "Review": 3.74,
+   "DEPT": "ELECTRONICS"
+ },
+ {
+   "SKU": 401888,
+   "ITEM_ID": 121,
+   "ITEM_DESC": "Panasonic Kx-TS550",
+   "PRICE": 13.11,
+   "QTY": 3,
+   "Review": 4.78,
+   "DEPT": "ELECTRONICS"
+ },
+ {
+   "SKU": 349969,
+   "ITEM_ID": 122,
+   "ITEM_DESC": "Verbatim 25 GB 6x Blu-ray Single Layer Recordable Disc, 25/Pack",
+   "PRICE": 17.38,
+   "QTY": 6,
+   "Review": 3.45,
+   "DEPT": "ELECTRONICS"
+ },
+ {
+   "SKU": 659391,
+   "ITEM_ID": 123,
+   "ITEM_DESC": "Imation 8gb Micro Traveldrive Usb 2.0 Flash Drive",
+   "PRICE": 17.63,
+   "QTY": 6,
+   "Review": 4.29,
+   "DEPT": "ELECTRONICS"
+ },
+ {
+   "SKU": 672593,
+   "ITEM_ID": 124,
+   "ITEM_DESC": "LF Elite 3D Dazzle Designer Hard Case Cover, Lf Stylus Pen and Wiper For Apple Iphone 5c Mini Lite",
+   "PRICE": 49.99,
+   "QTY": 8,
+   "Review": 4.05,
+   "DEPT": "ELECTRONICS"
+ },
+ {
+   "SKU": 900293,
+   "ITEM_ID": 125,
+   "ITEM_DESC": "AT&T CL83451 4-Handset Telephone",
+   "PRICE": 32.82,
+   "QTY": 10,
+   "Review": 4.54,
+   "DEPT": "ELECTRONICS"
+ },
+ {
+   "SKU": 571672,
+   "ITEM_ID": 126,
+   "ITEM_DESC": "Imation 8gb Micro Traveldrive Usb 2.0 Flash Drive",
+   "PRICE": 9.11,
+   "QTY": 5,
+   "Review": 4.08,
+   "DEPT": "ELECTRONICS"
+ },
+ {
+   "SKU": 405605,
+   "ITEM_ID": 127,
+   "ITEM_DESC": "Verbatim 25 GB 6x Blu-ray Single Layer Recordable Disc, 3/Pack",
+   "PRICE": 43.2,
+   "QTY": 11,
+   "Review": 3.25,
+   "DEPT": "ELECTRONICS"
+ },
+ {
+   "SKU": 527114,
+   "ITEM_ID": 128,
+   "ITEM_DESC": "netTALK DUO VoIP Telephone Service",
+   "PRICE": 3.17,
+   "QTY": 11,
+   "Review": 4.24,
+   "DEPT": "ELECTRONICS"
+ },
+ {
+   "SKU": 235589,
+   "ITEM_ID": 129,
+   "ITEM_DESC": "Logitech LS21 Speaker System - PC Multimedia - 2.1-CH - Wired",
+   "PRICE": 4.92,
+   "QTY": 15,
+   "Review": 3.77,
+   "DEPT": "ELECTRONICS"
+ },
+ {
+   "SKU": 451739,
+   "ITEM_ID": 130,
+   "ITEM_DESC": "Panasonic Kx-TS550",
+   "PRICE": 30.87,
+   "QTY": 2,
+   "Review": 3.77,
+   "DEPT": "ELECTRONICS"
+ },
+ {
+   "SKU": 896494,
+   "ITEM_ID": 131,
+   "ITEM_DESC": "SanDisk Ultra 64 GB MicroSDHC Class 10 Memory Card",
+   "PRICE": 32.39,
+   "QTY": 17,
+   "Review": 3.87,
+   "DEPT": "ELECTRONICS"
+ },
+ {
+   "SKU": 184234,
+   "ITEM_ID": 132,
+   "ITEM_DESC": "Logitech K350 2.4Ghz Wireless Keyboard",
+   "PRICE": 11.23,
+   "QTY": 13,
+   "Review": 3.23,
+   "DEPT": "ELECTRONICS"
+ },
+ {
+   "SKU": 794141,
+   "ITEM_ID": 133,
+   "ITEM_DESC": "Memorex Mini Travel Drive 8 GB USB 2.0 Flash Drive",
+   "PRICE": 8.14,
+   "QTY": 6,
+   "Review": 4.7,
+   "DEPT": "ELECTRONICS"
+ },
+ {
+   "SKU": 810357,
+   "ITEM_ID": 134,
+   "ITEM_DESC": "Speck Products Candyshell Flip Case",
+   "PRICE": 25.07,
+   "QTY": 19,
+   "Review": 3.75,
+   "DEPT": "ELECTRONICS"
+ },
+ {
+   "SKU": 219920,
+   "ITEM_ID": 135,
+   "ITEM_DESC": "Logitech Gaming G510s - Keyboard",
+   "PRICE": 45.64,
+   "QTY": 18,
+   "Review": 4.1,
+   "DEPT": "ELECTRONICS"
+ },
+ {
+   "SKU": 401664,
+   "ITEM_ID": 136,
+   "ITEM_DESC": "KLD Oscar II Style Snap-on Ultra Thin Side Flip Synthetic Leather Cover Case for HTC One HTC M7",
+   "PRICE": 11.66,
+   "QTY": 8,
+   "Review": 3.53,
+   "DEPT": "ELECTRONICS"
+ },
+ {
+   "SKU": 51423,
+   "ITEM_ID": 137,
+   "ITEM_DESC": "Anker 36W 4-Port USB Wall Charger Travel Power Adapter for iPhone 5s 5c 5",
+   "PRICE": 18.06,
+   "QTY": 16,
+   "Review": 3.29,
+   "DEPT": "ELECTRONICS"
+ },
+ {
+   "SKU": 628383,
+   "ITEM_ID": 138,
+   "ITEM_DESC": "Logitech Mobile Speakerphone P710e - speaker phone",
+   "PRICE": 0.17,
+   "QTY": 15,
+   "Review": 4.68,
+   "DEPT": "ELECTRONICS"
+ },
+ {
+   "SKU": 504269,
+   "ITEM_ID": 139,
+   "ITEM_DESC": "ClearOne CHATAttach 160 - speaker phone",
+   "PRICE": 48.05,
+   "QTY": 3,
+   "Review": 4.49,
+   "DEPT": "ELECTRONICS"
+ },
+ {
+   "SKU": 653648,
+   "ITEM_ID": 140,
+   "ITEM_DESC": "Kensington SlimBlade Notebook Wireless Mouse with Nano Receiver ",
+   "PRICE": 11.69,
+   "QTY": 8,
+   "Review": 4.06,
+   "DEPT": "ELECTRONICS"
+ },
+ {
+   "SKU": 453826,
+   "ITEM_ID": 141,
+   "ITEM_DESC": "Sony 16GB Class 10 Micro SDHC R40 Memory Card",
+   "PRICE": 2.82,
+   "QTY": 7,
+   "Review": 3.95,
+   "DEPT": "ELECTRONICS"
+ },
+ {
+   "SKU": 233078,
+   "ITEM_ID": 142,
+   "ITEM_DESC": "Razer Tiamat Over Ear 7.1 Surround Sound PC Gaming Headset",
+   "PRICE": 13.63,
+   "QTY": 2,
+   "Review": 4.24,
+   "DEPT": "ELECTRONICS"
+ },
+ {
+   "SKU": 509725,
+   "ITEM_ID": 143,
+   "ITEM_DESC": "Razer Kraken PRO Over Ear PC and Music Headset",
+   "PRICE": 42.29,
+   "QTY": 7,
+   "Review": 4.34,
+   "DEPT": "ELECTRONICS"
+ },
+ {
+   "SKU": 206639,
+   "ITEM_ID": 144,
+   "ITEM_DESC": "Kingston Digital DataTraveler 32GB USB 2.0",
+   "PRICE": 16.64,
+   "QTY": 19,
+   "Review": 4.97,
+   "DEPT": "ELECTRONICS"
+ },
+ {
+   "SKU": 540144,
+   "ITEM_ID": 145,
+   "ITEM_DESC": "Sony Micro Vault Click 16 GB USB 2.0 Flash Drive",
+   "PRICE": 33.9,
+   "QTY": 10,
+   "Review": 4.37,
+   "DEPT": "ELECTRONICS"
+ },
+ {
+   "SKU": 347837,
+   "ITEM_ID": 146,
+   "ITEM_DESC": "Pyle PMP37LED",
+   "PRICE": 12.27,
+   "QTY": 17,
+   "Review": 4.55,
+   "DEPT": "ELECTRONICS"
+ },
+ {
+   "SKU": 775458,
+   "ITEM_ID": 147,
+   "ITEM_DESC": "Clarity 53712",
+   "PRICE": 36.26,
+   "QTY": 15,
+   "Review": 3.57,
+   "DEPT": "ELECTRONICS"
+ },
+ {
+   "SKU": 263203,
+   "ITEM_ID": 148,
+   "ITEM_DESC": "Zebra GX420t Direct Thermal/Thermal Transfer Printer",
+   "PRICE": 8.32,
+   "QTY": 18,
+   "Review": 4.47,
+   "DEPT": "ELECTRONICS"
+ },
+ {
+   "SKU": 65999,
+   "ITEM_ID": 149,
+   "ITEM_DESC": "Belkin Grip Candy Sheer Case / Cover for iPhone 5 and 5S",
+   "PRICE": 11.28,
+   "QTY": 10,
+   "Review": 4.67,
+   "DEPT": "ELECTRONICS"
+ },
+ {
+   "SKU": 87402,
+   "ITEM_ID": 150,
+   "ITEM_DESC": "I Need's 3d Hello Kitty Hybrid Silicone Case Cover for HTC One X 4g with 3d Hello Kitty Stylus Pen Green/pink",
+   "PRICE": 29.23,
+   "QTY": 15,
+   "Review": 4.78,
+   "DEPT": "ELECTRONICS"
+ },
+ {
+   "SKU": 525034,
+   "ITEM_ID": 151,
+   "ITEM_DESC": "Maxell DVD-RAM Discs",
+   "PRICE": 33.02,
+   "QTY": 13,
+   "Review": 3.72,
+   "DEPT": "ELECTRONICS"
+ },
+ {
+   "SKU": 125770,
+   "ITEM_ID": 152,
+   "ITEM_DESC": "Logitech MX Performance Wireless Mouse",
+   "PRICE": 27.89,
+   "QTY": 3,
+   "Review": 4.63,
+   "DEPT": "ELECTRONICS"
+ },
+ {
+   "SKU": 950583,
+   "ITEM_ID": 153,
+   "ITEM_DESC": "Logitech B530 USB Headset - headset - Full size, Binaural",
+   "PRICE": 15.82,
+   "QTY": 3,
+   "Review": 4.41,
+   "DEPT": "ELECTRONICS"
+ },
+ {
+   "SKU": 683706,
+   "ITEM_ID": 154,
+   "ITEM_DESC": "Hand Towel",
+   "PRICE": 5.83,
+   "QTY": 14,
+   "Review": 3.89,
+   "DEPT": "PAPER GOODS"
+ },
+ {
+   "SKU": 914478,
+   "ITEM_ID": 155,
+   "ITEM_DESC": "Hand Tissue",
+   "PRICE": 45.78,
+   "QTY": 10,
+   "Review": 4.89,
+   "DEPT": "PAPER GOODS"
+ },
+ {
+   "SKU": 84936,
+   "ITEM_ID": 156,
+   "ITEM_DESC": "Bath Tissue",
+   "PRICE": 46.1,
+   "QTY": 17,
+   "Review": 3.51,
+   "DEPT": "PAPER GOODS"
+ },
+ {
+   "SKU": 225591,
+   "ITEM_ID": 157,
+   "ITEM_DESC": "Wet Wipes",
+   "PRICE": 9.21,
+   "QTY": 5,
+   "Review": 3.77,
+   "DEPT": "PAPER GOODS"
+ },
+ {
+   "SKU": 930338,
+   "ITEM_ID": 158,
+   "ITEM_DESC": "Clorox Bath Towel",
+   "PRICE": 45.67,
+   "QTY": 9,
+   "Review": 4.45,
+   "DEPT": "PAPER GOODS"
+ },
+ {
+   "SKU": 757635,
+   "ITEM_ID": 159,
+   "ITEM_DESC": "Clorox Disinfectent Wipes",
+   "PRICE": 35.3,
+   "QTY": 2,
+   "Review": 3.77,
+   "DEPT": "PAPER GOODS"
+ },
+ {
+   "SKU": 117428,
+   "ITEM_ID": 160,
+   "ITEM_DESC": "Toilet Tissue",
+   "PRICE": 19.78,
+   "QTY": 12,
+   "Review": 3.98,
+   "DEPT": "PAPER GOODS"
+ },
+ {
+   "SKU": 849885,
+   "ITEM_ID": 161,
+   "ITEM_DESC": "Facial Tissue",
+   "PRICE": 15,
+   "QTY": 7,
+   "Review": 4.7,
+   "DEPT": "PAPER GOODS"
+ },
+ {
+   "SKU": 280502,
+   "ITEM_ID": 162,
+   "ITEM_DESC": "Queen Bed Frame - Alpha",
+   "PRICE": 22.77,
+   "QTY": 2,
+   "Review": 4.87,
+   "DEPT": "BEDDING"
+ },
+ {
+   "SKU": 89668,
+   "ITEM_ID": 163,
+   "ITEM_DESC": "Queen Bed Frame - Beta",
+   "PRICE": 3.94,
+   "QTY": 10,
+   "Review": 4.4,
+   "DEPT": "BEDDING"
+ },
+ {
+   "SKU": 287898,
+   "ITEM_ID": 164,
+   "ITEM_DESC": "Queen Bed Set - Alpha",
+   "PRICE": 24.01,
+   "QTY": 5,
+   "Review": 4.39,
+   "DEPT": "BEDDING"
+ },
+ {
+   "SKU": 69193,
+   "ITEM_ID": 165,
+   "ITEM_DESC": "QueenBed Set - Alpha",
+   "PRICE": 1.18,
+   "QTY": 9,
+   "Review": 4.76,
+   "DEPT": "BEDDING"
+ },
+ {
+   "SKU": 328106,
+   "ITEM_ID": 166,
+   "ITEM_DESC": "Queen Bedspread - Nylon",
+   "PRICE": 41.71,
+   "QTY": 12,
+   "Review": 3.99,
+   "DEPT": "BEDDING"
+ },
+ {
+   "SKU": 92433,
+   "ITEM_ID": 167,
+   "ITEM_DESC": "Queen Bedspread - Cotton",
+   "PRICE": 18.51,
+   "QTY": 10,
+   "Review": 4.09,
+   "DEPT": "BEDDING"
+ },
+ {
+   "SKU": 504084,
+   "ITEM_ID": 168,
+   "ITEM_DESC": "King Bed Frame - Alpha",
+   "PRICE": 9.51,
+   "QTY": 2,
+   "Review": 3.28,
+   "DEPT": "BEDDING"
+ },
+ {
+   "SKU": 123803,
+   "ITEM_ID": 169,
+   "ITEM_DESC": "King Bed Frame - Beta",
+   "PRICE": 28.32,
+   "QTY": 16,
+   "Review": 3.98,
+   "DEPT": "BEDDING"
+ },
+ {
+   "SKU": 51458,
+   "ITEM_ID": 170,
+   "ITEM_DESC": "King Bed Set - Alpha",
+   "PRICE": 23.22,
+   "QTY": 12,
+   "Review": 3.64,
+   "DEPT": "BEDDING"
+ },
+ {
+   "SKU": 801231,
+   "ITEM_ID": 171,
+   "ITEM_DESC": "King Bed Set - Alpha",
+   "PRICE": 24.4,
+   "QTY": 15,
+   "Review": 3.79,
+   "DEPT": "BEDDING"
+ },
+ {
+   "SKU": 862567,
+   "ITEM_ID": 172,
+   "ITEM_DESC": "King Bedspread - Nylon",
+   "PRICE": 8.31,
+   "QTY": 11,
+   "Review": 4.24,
+   "DEPT": "BEDDING"
+ },
+ {
+   "SKU": 663234,
+   "ITEM_ID": 173,
+   "ITEM_DESC": "King Bedspread - Cotton",
+   "PRICE": 13.47,
+   "QTY": 8,
+   "Review": 4.27,
+   "DEPT": "BEDDING"
+ },
+ {
+   "SKU": 498796,
+   "ITEM_ID": 174,
+   "ITEM_DESC": "Twin Bed Frame - Beta",
+   "PRICE": 30.16,
+   "QTY": 16,
+   "Review": 4.57,
+   "DEPT": "BEDDING"
+ },
+ {
+   "SKU": 172144,
+   "ITEM_ID": 175,
+   "ITEM_DESC": "Twin Bed Set - Alpha",
+   "PRICE": 46.06,
+   "QTY": 10,
+   "Review": 4.03,
+   "DEPT": "BEDDING"
+ },
+ {
+   "SKU": 235151,
+   "ITEM_ID": 176,
+   "ITEM_DESC": "Twin Bedspread - Nylon",
+   "PRICE": 43.94,
+   "QTY": 4,
+   "Review": 4.88,
+   "DEPT": "BEDDING"
+ },
+ {
+   "SKU": 308541,
+   "ITEM_ID": 177,
+   "ITEM_DESC": "Twin Bedspread - Cotton",
+   "PRICE": 47.42,
+   "QTY": 18,
+   "Review": 4.44,
+   "DEPT": "BEDDING"
+ },
+ {
+   "SKU": 204665,
+   "ITEM_ID": 178,
+   "ITEM_DESC": "Twin Bed Cozy",
+   "PRICE": 2.95,
+   "QTY": 2,
+   "Review": 3.4,
+   "DEPT": "BEDDING"
+ },
+ {
+   "SKU": 591150,
+   "ITEM_ID": 179,
+   "ITEM_DESC": "DEWALTATOMIC 20-Volt MAX Cordless",
+   "PRICE": 3.16,
+   "QTY": 13,
+   "Review": 3.88,
+   "DEPT": "HARDWARE"
+ },
+ {
+   "SKU": 626302,
+   "ITEM_ID": 180,
+   "ITEM_DESC": "DEWALTATOMIC 12-Volt MAX Cordless",
+   "PRICE": 30.77,
+   "QTY": 5,
+   "Review": 4.28,
+   "DEPT": "HARDWARE"
+ },
+ {
+   "SKU": 944413,
+   "ITEM_ID": 181,
+   "ITEM_DESC": "DEWALTATOMIC Bit Set",
+   "PRICE": 48.41,
+   "QTY": 6,
+   "Review": 4.71,
+   "DEPT": "HARDWARE"
+ },
+ {
+   "SKU": 446758,
+   "ITEM_ID": 182,
+   "ITEM_DESC": "M18 18-Volt Lithium-Ion Cordless 5 in. Random Orbit Sander",
+   "PRICE": 38.79,
+   "QTY": 19,
+   "Review": 4.53,
+   "DEPT": "HARDWARE"
+ },
+ {
+   "SKU": 754067,
+   "ITEM_ID": 183,
+   "ITEM_DESC": "Random Orbit Sander (Tool-Only)",
+   "PRICE": 19.62,
+   "QTY": 13,
+   "Review": 3.6,
+   "DEPT": "HARDWARE"
+ },
+ {
+   "SKU": 767918,
+   "ITEM_ID": 184,
+   "ITEM_DESC": "Zinc-Plated Hex-Head Lag Screw",
+   "PRICE": 11.02,
+   "QTY": 8,
+   "Review": 4.3,
+   "DEPT": "HARDWARE"
+ },
+ {
+   "SKU": 895131,
+   "ITEM_ID": 185,
+   "ITEM_DESC": "Zinc-Plated Hex-Head Lag Screw 2inch",
+   "PRICE": 9.64,
+   "QTY": 12,
+   "Review": 4.05,
+   "DEPT": "HARDWARE"
+ },
+ {
+   "SKU": 725109,
+   "ITEM_ID": 186,
+   "ITEM_DESC": "Georgian Satin Nickel Privacy Bed/Bath Door Knob",
+   "PRICE": 39.75,
+   "QTY": 5,
+   "Review": 3.33,
+   "DEPT": "HARDWARE"
+ },
+ {
+   "SKU": 840645,
+   "ITEM_ID": 187,
+   "ITEM_DESC": "Georgian Satin Nickel Privacy Bed/Bath Door stand",
+   "PRICE": 29.74,
+   "QTY": 6,
+   "Review": 3.72,
+   "DEPT": "HARDWARE"
+ },
+ {
+   "SKU": 241442,
+   "ITEM_ID": 188,
+   "ITEM_DESC": "MILWAKIE 20-Volt MAX Cordless",
+   "PRICE": 44.59,
+   "QTY": 4,
+   "Review": 4.12,
+   "DEPT": "HARDWARE"
+ },
+ {
+   "SKU": 574852,
+   "ITEM_ID": 189,
+   "ITEM_DESC": "MILWAKIE 12-Volt MAX Cordless",
+   "PRICE": 5.34,
+   "QTY": 9,
+   "Review": 3.55,
+   "DEPT": "HARDWARE"
+ },
+ {
+   "SKU": 920314,
+   "ITEM_ID": 190,
+   "ITEM_DESC": "MILWAKIE Bit Set",
+   "PRICE": 33.61,
+   "QTY": 3,
+   "Review": 4.99,
+   "DEPT": "HARDWARE"
+ },
+ {
+   "SKU": 392104,
+   "ITEM_ID": 191,
+   "ITEM_DESC": "Adjustable Steel Door Security Bar",
+   "PRICE": 21.65,
+   "QTY": 13,
+   "Review": 4.92,
+   "DEPT": "HARDWARE"
+ },
+ {
+   "SKU": 942737,
+   "ITEM_ID": 192,
+   "ITEM_DESC": "Adjustable Steel Door Bar",
+   "PRICE": 8.3,
+   "QTY": 10,
+   "Review": 3.39,
+   "DEPT": "HARDWARE"
+ },
+ {
+   "SKU": 885683,
+   "ITEM_ID": 204,
+   "ITEM_DESC": "Thick Solid Brass Lock and Door Reinforcer",
+   "PRICE": 25.27,
+   "QTY": 19,
+   "Review": 3.61,
+   "DEPT": "HARDWARE"
+ },
+ {
+   "SKU": 479493,
+   "ITEM_ID": 205,
+   "ITEM_DESC": "Plywood",
+   "PRICE": 47.03,
+   "QTY": 12,
+   "Review": 4.39,
+   "DEPT": "HARDWARE"
+ },
+ {
+   "SKU": 309825,
+   "ITEM_ID": 206,
+   "ITEM_DESC": "Bedframe",
+   "PRICE": 0.7,
+   "QTY": 11,
+   "Review": 4.23,
+   "DEPT": "HARDWARE"
+ },
+ {
+   "SKU": 941256,
+   "ITEM_ID": 207,
+   "ITEM_DESC": "Miracle-Gro 1.5-cu ft Garden Soil",
+   "PRICE": 14.52,
+   "QTY": 13,
+   "Review": 4.72,
+   "DEPT": "GARDEN"
+ },
+ {
+   "SKU": 255152,
+   "ITEM_ID": 208,
+   "ITEM_DESC": "Miracle-Gro 1.5-cu ft Top Soil",
+   "PRICE": 44.4,
+   "QTY": 11,
+   "Review": 3.62,
+   "DEPT": "GARDEN"
+ },
+ {
+   "SKU": 108179,
+   "ITEM_ID": 209,
+   "ITEM_DESC": "Miracle-Gro 1.3-cu ft Organic Garden Soil",
+   "PRICE": 25.59,
+   "QTY": 6,
+   "Review": 4.09,
+   "DEPT": "GARDEN"
+ },
+ {
+   "SKU": 738123,
+   "ITEM_ID": 210,
+   "ITEM_DESC": "Sta-Green 1.5-cu ft Lawn Soil",
+   "PRICE": 2.53,
+   "QTY": 15,
+   "Review": 4.88,
+   "DEPT": "GARDEN"
+ },
+ {
+   "SKU": 256290,
+   "ITEM_ID": 211,
+   "ITEM_DESC": "Kellogg 2-cu ft Organic Lawn Soil",
+   "PRICE": 27.41,
+   "QTY": 17,
+   "Review": 4.3,
+   "DEPT": "GARDEN"
+ },
+ {
+   "SKU": 895310,
+   "ITEM_ID": 212,
+   "ITEM_DESC": "Miracle-Gro 1.5-cu ft Organic Raised Bed Soil",
+   "PRICE": 22.03,
+   "QTY": 16,
+   "Review": 4.88,
+   "DEPT": "GARDEN"
+ },
+ {
+   "SKU": 328217,
+   "ITEM_ID": 213,
+   "ITEM_DESC": "Kellogg 3-cu ft Organic Raised Bed Soil",
+   "PRICE": 16.16,
+   "QTY": 16,
+   "Review": 3.31,
+   "DEPT": "GARDEN"
+ },
+ {
+   "SKU": 476892,
+   "ITEM_ID": 214,
+   "ITEM_DESC": "Belgard Quarry 12-in L x 4-in H x 5.75-in D Concrete Retaining Wall Block",
+   "PRICE": 40.64,
+   "QTY": 18,
+   "Review": 3.54,
+   "DEPT": "GARDEN"
+ },
+ {
+   "SKU": 869071,
+   "ITEM_ID": 215,
+   "ITEM_DESC": "Belgard Quarry 12-in L x 4-in H x 5.75-in D Concrete Retaining Wall Block",
+   "PRICE": 0.46,
+   "QTY": 19,
+   "Review": 4.97,
+   "DEPT": "GARDEN"
+ },
+ {
+   "SKU": 435763,
+   "ITEM_ID": 216,
+   "ITEM_DESC": "Ledgewall 12-in L x 4-in H x 7-in D Concrete Retaining Wall Block",
+   "PRICE": 46.82,
+   "QTY": 10,
+   "Review": 3.49,
+   "DEPT": "GARDEN"
+ },
+ {
+   "SKU": 948034,
+   "ITEM_ID": 217,
+   "ITEM_DESC": "Chiselwall 12-in L x 2-in H x 8-in D Concrete Retaining Wall Cap",
+   "PRICE": 27.33,
+   "QTY": 19,
+   "Review": 4.42,
+   "DEPT": "GARDEN"
+ },
+ {
+   "SKU": 858157,
+   "ITEM_ID": 218,
+   "ITEM_DESC": "Orbit 7-Pattern Pattern Nozzle",
+   "PRICE": 28.53,
+   "QTY": 2,
+   "Review": 3.47,
+   "DEPT": "GARDEN"
+ },
+ {
+   "SKU": 888103,
+   "ITEM_ID": 219,
+   "ITEM_DESC": "Orbit Hose 20Ft",
+   "PRICE": 34.08,
+   "QTY": 6,
+   "Review": 4.14,
+   "DEPT": "GARDEN"
+ },
+ {
+   "SKU": 619002,
+   "ITEM_ID": 220,
+   "ITEM_DESC": "Teknor Apex Heavy Duty 5/8-in x 100-ft Heavy-Duty Kink Free Vinyl Gray Coiled Hose",
+   "PRICE": 13.62,
+   "QTY": 12,
+   "Review": 4.04,
+   "DEPT": "GARDEN"
+ },
+ {
+   "SKU": 516109,
+   "ITEM_ID": 221,
+   "ITEM_DESC": "NeverKink Neverkink Max 5/8-in x 100-ft Premium-Duty Kink Free Vinyl Gray Coiled Hose",
+   "PRICE": 5.82,
+   "QTY": 7,
+   "Review": 3.48,
+   "DEPT": "GARDEN"
+ },
+ {
+   "SKU": 914401,
+   "ITEM_ID": 222,
+   "ITEM_DESC": "CRAFTSMAN SB410 24-in 208-cc Two-Stage Self-Propelled Gas Snow Blower with Push-Button Electric Start",
+   "PRICE": 420.15,
+   "QTY": 10,
+   "Review": 4.19,
+   "DEPT": "GARDEN"
+ },
+ {
+   "SKU": 237708,
+   "ITEM_ID": 223,
+   "ITEM_DESC": "Ariens Classic 24-in 208-cc Two-Stage Self-Propelled Gas Snow Blower with Push-Button Electric Start",
+   "PRICE": 348.55,
+   "QTY": 6,
+   "Review": 3.38,
+   "DEPT": "GARDEN"
+ },
+ {
+   "SKU": 308197,
+   "ITEM_ID": 224,
+   "ITEM_DESC": "CRAFTSMAN T210 Turn Tight 18-HP Hydrostatic 42-in Riding Lawn Mower with Mulching Capability",
+   "PRICE": 1119.79,
+   "QTY": 14,
+   "Review": 4.51,
+   "DEPT": "GARDEN"
+ },
+ {
+   "SKU": 266111,
+   "ITEM_ID": 225,
+   "ITEM_DESC": "Large Veg Piza",
+   "PRICE": 31.97,
+   "QTY": 2,
+   "Review": 4.36,
+   "DEPT": "RESTAURANT"
+ },
+ {
+   "SKU": 61303,
+   "ITEM_ID": 226,
+   "ITEM_DESC": "Small Veg Pizza",
+   "PRICE": 12.22,
+   "QTY": 10,
+   "Review": 3.92,
+   "DEPT": "RESTAURANT"
+ },
+ {
+   "SKU": 152830,
+   "ITEM_ID": 227,
+   "ITEM_DESC": "Chicken Pizza (L)",
+   "PRICE": 27,
+   "QTY": 12,
+   "Review": 4.52,
+   "DEPT": "RESTAURANT"
+ },
+ {
+   "SKU": 667053,
+   "ITEM_ID": 228,
+   "ITEM_DESC": "Medium Chicken Topping",
+   "PRICE": 19.39,
+   "QTY": 12,
+   "Review": 4.99,
+   "DEPT": "RESTAURANT"
+ },
+ {
+   "SKU": 667054,
+   "ITEM_ID": 229,
+   "ITEM_DESC": "Bucket Chicken Wings",
+   "PRICE": 48.35,
+   "QTY": 4,
+   "Review": 3.22,
+   "DEPT": "RESTAURANT"
+ },
+ {
+   "SKU": 667055,
+   "ITEM_ID": 230,
+   "ITEM_DESC": "Honey Crust Pizza",
+   "PRICE": 29.4,
+   "QTY": 16,
+   "Review": 4.79,
+   "DEPT": "RESTAURANT"
+ },
+ {
+   "SKU": 667056,
+   "ITEM_ID": 231,
+   "ITEM_DESC": "Bread Sticks",
+   "PRICE": 7.16,
+   "QTY": 9,
+   "Review": 4.97,
+   "DEPT": "RESTAURANT"
+ },
+ {
+   "SKU": 667057,
+   "ITEM_ID": 232,
+   "ITEM_DESC": "Pizza and Drinks",
+   "PRICE": 29.15,
+   "QTY": 13,
+   "Review": 3.35,
+   "DEPT": "RESTAURANT"
+ },
+ {
+   "SKU": 667058,
+   "ITEM_ID": 233,
+   "ITEM_DESC": "Rice With Pizza",
+   "PRICE": 28.8,
+   "QTY": 7,
+   "Review": 3.33,
+   "DEPT": "RESTAURANT"
+ },
+ {
+   "SKU": 667059,
+   "ITEM_ID": 234,
+   "ITEM_DESC": "3 Topping Pizza",
+   "PRICE": 26.54,
+   "QTY": 11,
+   "Review": 3.21,
+   "DEPT": "RESTAURANT"
+ },
+ {
+   "SKU": 667060,
+   "ITEM_ID": 235,
+   "ITEM_DESC": "Large Pizza With Drinks",
+   "PRICE": 24.77,
+   "QTY": 8,
+   "Review": 3.74,
+   "DEPT": "RESTAURANT"
+ },
+ {
+   "SKU": 667061,
+   "ITEM_ID": 236,
+   "ITEM_DESC": "Drinks",
+   "PRICE": 12.97,
+   "QTY": 11,
+   "Review": 3.22,
+   "DEPT": "RESTAURANT"
+ },
+ {
+   "SKU": 667062,
+   "ITEM_ID": 237,
+   "ITEM_DESC": "Family Pack Pizza Box",
+   "PRICE": 39.53,
+   "QTY": 6,
+   "Review": 4.76,
+   "DEPT": "RESTAURANT"
+ },
+ {
+   "SKU": 667063,
+   "ITEM_ID": 238,
+   "ITEM_DESC": "Family Pack Pizza Box 2",
+   "PRICE": 36.44,
+   "QTY": 7,
+   "Review": 4.93,
+   "DEPT": "RESTAURANT"
+ },
+ {
+   "SKU": 667064,
+   "ITEM_ID": 239,
+   "ITEM_DESC": "Cheese Spread",
+   "PRICE": 3.28,
+   "QTY": 4,
+   "Review": 4.43,
+   "DEPT": "RESTAURANT"
+ },
+ {
+   "SKU": 667065,
+   "ITEM_ID": 240,
+   "ITEM_DESC": "Salad",
+   "PRICE": 14.14,
+   "QTY": 2,
+   "Review": 3.98,
+   "DEPT": "RESTAURANT"
+ }
+]
